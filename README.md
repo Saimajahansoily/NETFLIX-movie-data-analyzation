@@ -1,7 +1,7 @@
 # NETFLIX-movie-data-analyzation
 
 
-This is a practice project to mine to analyze a messy data of netflix movie list and find some specific insites from the data after cleaning it with the help of libraries numpy, pandas,matplotlib, sea born. 
+This is a practice project to mine to analyze a massy data of netflix movie list and find some specific insites from the data after cleaning it with the help of libraries numpy, pandas,matplotlib, sea born. 
 
 
 In this project the questions that i solve are-
